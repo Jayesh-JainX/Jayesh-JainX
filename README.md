@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Jayesh-JainX
 - 🌱 I’m currently learning at Bharati Vidyapeeth Deemed University,Pune
 - 📫 How to reach me https://t.me/jayeshjayesh
+
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/jayeshjain021.png" alt="TryHackMe">
+<br>
+
 [![@jayeshjain021's Holopin board](https://holopin.me/jayeshjain021)](https://holopin.io/@jayeshjain021)
 
 <!---
