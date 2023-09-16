@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [Jayesh-JainX](https://github.com/Jayesh-JainX), a passionate learner and enthusiast.
 - 🌱 I’m currently pursuing my education at Bharati Vidyapeeth Deemed University in Pune, where I'm studying Computer Engineering.
-- 🔍 I'm always eager to explore new topics and expand my knowledge in [mention your areas of interest or subjects you're passionate about].
+- 🔍 I'm always eager to explore new topics and expand my knowledge in Computers.
 - 📫 You can reach out to me on [Telegram](https://t.me/jayeshjayesh) if you'd like to connect, discuss ideas, or just have a friendly chat.
 
 [![Check out my Holopin board](https://holopin.me/jayeshjain021)](https://holopin.io/@jayeshjain021)
@@ -26,14 +26,14 @@ Feel free to connect with me, and let's learn and grow together!
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-jainX&theme=midnight-purple&hide_border=false" align="right">
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" > </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayesh-jainX&theme=midnight-purple&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<!---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayesh-jainX&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+--->
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
