@@ -27,7 +27,7 @@ Feel free to connect with me, and let's learn and grow together!
 
 
 ## 📊 GitHub Stats:
-<div align="center" style="background-image: url('[images/space.gif](https://github.com/Jayesh-JainX/Jayesh-JainX/assets/103871719/a731b5c1-27a1-4cd3-ada0-5cc717e74128)'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
+<div align="center">
 
   <div> <img src="https://github-readme-stats.vercel.app/api?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" > </div><br>
   <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-jainX&theme=midnight-purple&hide_border=false" > </div><br>
