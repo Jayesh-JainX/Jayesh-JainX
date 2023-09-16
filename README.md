@@ -25,8 +25,9 @@ Feel free to connect with me, and let's learn and grow together!
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
 ## 📊 GitHub Stats:
-<div align="center">
+<div align="center" style="background-image: url('[images/space.gif](https://github.com/Jayesh-JainX/Jayesh-JainX/assets/103871719/a731b5c1-27a1-4cd3-ada0-5cc717e74128)'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
 
   <div> <img src="https://github-readme-stats.vercel.app/api?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" > </div><br>
   <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-jainX&theme=midnight-purple&hide_border=false" > </div><br>
@@ -46,3 +47,4 @@ Feel free to connect with me, and let's learn and grow together!
 Jayesh-JainX/Jayesh-JainX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
