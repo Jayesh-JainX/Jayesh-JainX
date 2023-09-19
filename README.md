@@ -5,12 +5,13 @@
 - 🔍 I'm always eager to explore new topics and expand my knowledge in Computers.
 - 📫 You can reach out to me on [Telegram](https://t.me/jayeshjayesh) if you'd like to connect, discuss ideas, or just have a friendly chat.
 
+
 [![Check out my Holopin board](https://holopin.me/jayeshjain021)](https://holopin.io/@jayeshjain021)
 <!---
 [![](https://visitcount.itsvg.in/api?id=jayesh-jainX&icon=9&color=1)](https://visitcount.itsvg.in)
---->
 [![](https://visitcount.itsvg.in/api?id=Jayesh-JainX&label=Profile%20Views&icon=9&color=1&pretty=true)](https://visitcount.itsvg.in)
-
+--->
+![](https://komarev.com/ghpvc/?username=jayesh-jainx&base=50)
 ## 🎉 Interests and Hobbies
 
 In my free time, I enjoy:
