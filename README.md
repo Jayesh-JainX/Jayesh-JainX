@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
   <kbd style="border: 2px solid white; padding: 10px; border-radius: 5px;">
-      <img alt="Banner" style="height: 600px; width: 1000px; border: 1px solid white; border-radius: 5px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+      <img alt="Banner" style="height: 600px; width: 800px; border: 1px solid white; border-radius: 5px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
     </kbd>
 </p>
 
