@@ -41,15 +41,17 @@
 <br><br>
 
 
-<!-- <kbd style="border: 2px solid #E1E4E8; padding: 10px; border-radius: 5px;">
+<kbd style="border: 2px solid #E1E4E8; padding: 10px; border-radius: 5px;">
   <a href="https://holopin.me/jayeshjain021" target="_blank">
-    <img alt="Check out my Holopin board" src="https://holopin.me/@jayeshjain021" style="border: 1px solid #E1E4E8; border-radius: 5px;">
+    <!-- <img alt="Check out my Holopin board" src="https://holopin.me/@jayeshjain021" style="border: 1px solid #E1E4E8; border-radius: 5px;"> -->
+    <img width="2428" height="764" alt="image" src="https://github.com/user-attachments/assets/cef800af-7b38-4c76-9ff6-1cd72e624964" />
+    
   </a>
-</kbd> -->
+</kbd>
 
-<a href="https://holopin.me/jayeshjain021" target="_blank">
+<!-- <a href="https://holopin.me/jayeshjain021" target="_blank">
   <img width="2428" height="764" alt="image" src="https://github.com/user-attachments/assets/cef800af-7b38-4c76-9ff6-1cd72e624964" />
-</a>
+</a> -->
 
 <br>
 
