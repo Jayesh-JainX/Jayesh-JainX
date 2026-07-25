@@ -34,7 +34,6 @@
 ## 👋 Introduction
 
 - 👋 Hi, I’m [Jayesh-JainX](https://github.com/Jayesh-JainX), a passionate learner and enthusiast.
-- 🌱 I’m currently pursuing my education at Bharati Vidyapeeth Deemed University in Pune, where I'm studying Computer Engineering.
 - 🔍 I'm always eager to explore new topics and expand my knowledge in Computers.
 - 📫 You can reach out to me on [Telegram](https://t.me/jayeshjayesh) if you'd like to connect, discuss ideas, or just have a friendly chat.
   
@@ -71,9 +70,9 @@ Feel free to connect with me, and let's learn and grow together!
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <div> <img src="https://github-readme-stats.vercel.app/api?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" > </div><br>
+  <div> <img src="https://github-stats-extended.vercel.app/api?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" > </div><br>
   <div> <img src="https://github-readme-streak-stats.herokuapp.com?user=jayesh-jainx&theme=midnight-purple"></div> <br>
-  <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" > </div>
+  <div> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jayesh-jainX&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" > </div>
 </div>
 
 <p align="center">
